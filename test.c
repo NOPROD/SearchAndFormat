@@ -72,4 +72,4 @@ void deleteSelectedTag(){}
 /* TODO: Format selected files */
 void formatFile(){}
 /* TODO: Launch Bash script */
-void lunchBash(){}
+void launchBash(){}
